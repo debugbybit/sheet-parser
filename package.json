@@ -1,6 +1,6 @@
 {
   "name": "sheet-parser",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A lightweight Node.js library for parsing CSV, XLSX, and structured data formats.",
   "main": "index.js",
   "scripts": {
